@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  background-image : url('http://www.pptgrounds.com/wp-content/uploads/2012/12/Under-Construction-Backgrounds-Powerpoint.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
